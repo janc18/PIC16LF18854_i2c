@@ -8,6 +8,7 @@
 
 #include <xc.h>
 #include  "config.h"
+#include "i2c.h"
 #define _XTAL_FREQ 32000000
 void main(void) {
     return; 
